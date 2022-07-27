@@ -1,2 +1,2 @@
-# go-jsonrpc
+# jsonrpc
 golang jsonrpc2 implementation.
